@@ -8,7 +8,7 @@
    - Avant de commencer, assurez-vous d'avoir téléchargé le fichier CSV SneakR contenant les données des sneakers.
 
 2. **Installez "Local WP" et créez un nouveau site WordPress :**
-   - Téléchargez "Localwp" depuis [localwp]([https://localwp.com/](https://localwp.com/)).
+   - Téléchargez "Localwp" depuis https://localwp.com/](https://localwp.com/.
    - Suivez les instructions d'installation et lancez le site WordPress.
    - Lancez "Local WP" et créez un nouveau site WordPress.
 

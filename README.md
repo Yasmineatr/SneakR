@@ -2,9 +2,6 @@
 
 
 
-## Pour Commencer
-
-
 ### Utilisation de WordPress en Local avec "Local WP"
 
 1. **Téléchargez le Fichier CSV SneakR :**

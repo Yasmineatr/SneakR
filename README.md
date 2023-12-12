@@ -1,5 +1,6 @@
 # SneakR
 
+Sneaker vise à fournir une interface interactive permettant aux utilisateurs de visualiser une multitude de sneakers, de créer des listes de souhaits personnalisées et de constituer leur propre collection virtuelle. Le site est conçu pour les amateurs de sneakers qui souhaitent découvrir de nouveaux modèles, suivre les dernières sorties et partager leur passion avec une communauté mondiale.
 
 
 ### Utilisation de WordPress en Local avec "Local WP"
